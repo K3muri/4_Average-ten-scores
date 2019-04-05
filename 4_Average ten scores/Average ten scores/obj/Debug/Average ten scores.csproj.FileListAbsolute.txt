@@ -1,0 +1,14 @@
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Average ten scores\Average ten scores\bin\Debug\Average ten scores.exe.config
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Average ten scores\Average ten scores\bin\Debug\Average ten scores.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Average ten scores\Average ten scores\bin\Debug\Average ten scores.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Average ten scores\Average ten scores\obj\Debug\Average ten scores.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Average ten scores\Average ten scores\obj\Debug\Average ten scores.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Average ten scores\Average ten scores\obj\Debug\Average ten scores.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\Average ten scores\Average ten scores\obj\Debug\Average ten scores.pdb
+C:\Users\KEMURI\Desktop\the hub\Average ten scores\Average ten scores\bin\Debug\Average ten scores.exe.config
+C:\Users\KEMURI\Desktop\the hub\Average ten scores\Average ten scores\bin\Debug\Average ten scores.exe
+C:\Users\KEMURI\Desktop\the hub\Average ten scores\Average ten scores\bin\Debug\Average ten scores.pdb
+C:\Users\KEMURI\Desktop\the hub\Average ten scores\Average ten scores\obj\Debug\Average ten scores.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\the hub\Average ten scores\Average ten scores\obj\Debug\Average ten scores.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\the hub\Average ten scores\Average ten scores\obj\Debug\Average ten scores.exe
+C:\Users\KEMURI\Desktop\the hub\Average ten scores\Average ten scores\obj\Debug\Average ten scores.pdb
